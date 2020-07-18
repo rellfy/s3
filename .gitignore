@@ -1,3 +1,13 @@
+# Dist
+dist/
+public/
+release/
+
+# SSL
+*.key
+*.crt
+ssl/
+
 # Logs
 logs
 *.log
